@@ -1,0 +1,13 @@
+{
+  "$type": "ChangeValue",
+  "appliedValue": 3,
+  "Id": "b60f3a68-19f8-4a70-8434-eb81c45684cd",
+  "name": "Strength of A Giant",
+  "description": "Super strength of strongest of giants.",
+  "ticksToExpire": 6,
+  "tags": [
+    "Strength",
+    "IgnoreIfExists",
+    "Buff"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "$type": "Purge",
+  "Id": "30ca98a4-0e59-4623-9399-59e89347e047",
+  "name": "Dispel Curse",
+  "description": "Removes all curses",
+  "ticksToExpire": 0,
+  "tags": [
+    "Curse"
+  ]
+}

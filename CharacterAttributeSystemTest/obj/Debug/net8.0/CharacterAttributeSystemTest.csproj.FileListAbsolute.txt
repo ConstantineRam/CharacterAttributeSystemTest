@@ -1,0 +1,14 @@
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\bin\Debug\net8.0\CharacterAttributeSystemTest.exe
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\bin\Debug\net8.0\CharacterAttributeSystemTest.deps.json
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\bin\Debug\net8.0\CharacterAttributeSystemTest.runtimeconfig.json
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\bin\Debug\net8.0\CharacterAttributeSystemTest.dll
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\bin\Debug\net8.0\CharacterAttributeSystemTest.pdb
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\obj\Debug\net8.0\CharacterAttributeSystemTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\obj\Debug\net8.0\CharacterAttributeSystemTest.AssemblyInfoInputs.cache
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\obj\Debug\net8.0\CharacterAttributeSystemTest.AssemblyInfo.cs
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\obj\Debug\net8.0\CharacterAttributeSystemTest.csproj.CoreCompileInputs.cache
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\obj\Debug\net8.0\CharacterAttributeSystemTest.dll
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\obj\Debug\net8.0\refint\CharacterAttributeSystemTest.dll
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\obj\Debug\net8.0\CharacterAttributeSystemTest.pdb
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\obj\Debug\net8.0\CharacterAttributeSystemTest.genruntimeconfig.cache
+C:\Users\const\RiderProjects\CharacterAttributeSystemTest\CharacterAttributeSystemTest\obj\Debug\net8.0\ref\CharacterAttributeSystemTest.dll

@@ -1,0 +1,13 @@
+{
+  "$type": "ChangeValue",
+  "appliedValue": 2,
+  "Id": "397061e9-266f-44f2-a442-a0b43c65aa34",
+  "name": "Elven Grace",
+  "description": "Cast spells and the firstborn.",
+  "ticksToExpire": 12,
+  "tags": [
+    "Acrane",
+    "IgnoreIfExists",
+    "Buff"
+  ]
+}

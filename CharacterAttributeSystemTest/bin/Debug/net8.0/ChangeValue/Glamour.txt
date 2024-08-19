@@ -1,0 +1,14 @@
+{
+  "$type": "ChangeValue",
+  "appliedValue": 1,
+  "Id": "8addb62e-8c1b-4dbb-9b85-a1b835e737ab",
+  "name": "Powerful Glamour",
+  "description": "Magic Glamour",
+  "ticksToExpire": 2,
+  "tags": [
+    "All",
+    "IgnoreIfExists",
+    "Glamour",
+    "Buff"
+  ]
+}

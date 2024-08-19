@@ -1,0 +1,13 @@
+{
+  "$type": "ChangeValue",
+  "appliedValue": -3,
+  "Id": "b936b910-79df-48f3-98ec-5628270889f7",
+  "name": "Curse Of Mad King",
+  "description": "The curse of mad king Ludwig",
+  "ticksToExpire": 6,
+  "tags": [
+    "Mental",
+    "ResetIfExists",
+    "Curse"
+  ]
+}

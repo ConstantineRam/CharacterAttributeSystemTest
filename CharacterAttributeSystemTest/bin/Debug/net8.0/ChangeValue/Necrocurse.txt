@@ -1,0 +1,13 @@
+{
+  "$type": "ChangeValue",
+  "appliedValue": -1,
+  "Id": "e7644e94-c170-4485-b722-df23ffecc0f5",
+  "name": "Curse of Weakness",
+  "description": "Horrible necromantic curse that lasts until purged.",
+  "ticksToExpire": 0,
+  "tags": [
+    "Physical",
+    "IgnoreIfExists",
+    "Curse"
+  ]
+}

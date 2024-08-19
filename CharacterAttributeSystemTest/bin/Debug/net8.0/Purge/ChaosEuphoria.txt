@@ -1,0 +1,10 @@
+{
+  "$type": "Purge",
+  "Id": "19003ede-e6af-4d15-91c1-ee3e2e2765b5",
+  "name": "Chaotic Euphoria",
+  "description": "Removes all buffs",
+  "ticksToExpire": 0,
+  "tags": [
+  "Buff"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "$type": "ChangeValue",
+  "appliedValue": 10,
+  "Id": "d199d737-8fa5-49ea-afa9-12159a0d7bb6",
+  "name": "Incantation Of Cthulhu",
+  "description": "Madness From Deep Ocean.",
+  "ticksToExpire": 0,
+  "tags": [
+    "Eldritch",
+    "Curse"
+  ]
+}

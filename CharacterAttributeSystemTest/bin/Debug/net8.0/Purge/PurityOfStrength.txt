@@ -1,0 +1,10 @@
+{
+  "$type": "Purge",
+  "Id": "1f81bdcd-65c8-42df-b6ae-cd69d70c5929",
+  "name": "Purity Of Strength",
+  "description": "Cleans Strenght",
+  "ticksToExpire": 0,
+  "tags": [
+    "Strength"
+  ]
+}

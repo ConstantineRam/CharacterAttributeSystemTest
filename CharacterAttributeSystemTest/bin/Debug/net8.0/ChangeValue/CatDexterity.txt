@@ -1,0 +1,13 @@
+{
+  "$type": "ChangeValue",
+  "appliedValue": 4,
+  "Id": "0cf45c90-c37b-4e75-a4cc-17cedc977df1",
+  "name": "Dexterity of a Cat",
+  "description": "The Best Creature Gave You Grace",
+  "ticksToExpire": 10,
+  "tags": [
+    "Dexterity",
+    "ResetIfExists",
+    "Buff"
+  ]
+}

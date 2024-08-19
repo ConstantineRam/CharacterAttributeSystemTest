@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CharacterAttributeSystemTest/1.0.0": {
+        "runtime": {
+          "CharacterAttributeSystemTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CharacterAttributeSystemTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
